@@ -1,5 +1,8 @@
 # simple-unix-shell
+Unix Shell and History Feature
 
+
+This project consists of modifying a C program which serves a shell interface that accepts user com- mands and then executes each command in a separate process. A shell interface provides the user a prompt after which the next command is entered. 
 
 The design of the unix shell
 Enter command in shell. 
